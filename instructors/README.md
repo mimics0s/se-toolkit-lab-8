@@ -29,7 +29,7 @@ Permissions:
 
 <https://github.com/orgs/community/discussions/160497#discussioncomment-11456365>
 
-Steps:
+Complete these steps:
 
 1. Enable fine-grained tokens for your repo:
 
